@@ -1,0 +1,32 @@
+// Ejercicio_00
+
+//1.
+//https://developer.mozilla.org/es/docs/Web/JavaScript
+
+//2.
+// En una sola linea
+/*
+En varias lineas de codigo
+*/
+
+//3.
+let edad = 25;
+const nombre = "Juan";
+
+//4.
+
+let nombre = "Pepe"; //String
+let entero = 1000;  //Entero
+let verdadero = True; // Booleano
+let falso = false; // Booleano
+let numeroGrande = 1234567890123456789012345678901234567890n; //bigint
+let x; //undefined
+let x = null; //
+
+//5
+
+let lenguajePro = "JavaScript";
+console.log("¡Hola " + lenguajePro + "!");
+
+
+
